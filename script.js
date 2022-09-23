@@ -1,5 +1,3 @@
-
-
 let numero = 0
 
 function aumentar() {
