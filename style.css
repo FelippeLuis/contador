@@ -18,6 +18,22 @@ section {
     border-radius: 5px;
     text-align: center;
 }
+
 p{
     font-size: 100px;
+}
+
+button{
+
+    width: 50%;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    background-color: rgb(20, 20, 19);
+    color: aqua;
+    padding: 5px;
+    font-weight: bold;
+
 }
