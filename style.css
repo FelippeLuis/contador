@@ -2,6 +2,10 @@
     margin: 0%;
     box-sizing: border-box;
 }
+h1{
+
+    color: aqua;
+}
 
 body {
     min-height: 100vh;
@@ -21,6 +25,7 @@ section {
 
 p{
     font-size: 100px;
+    color: aqua;
 }
 
 button{
